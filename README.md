@@ -6,5 +6,5 @@ Steps to run:
 
 1. python digital_signature.py -s `<document>`
   
-2. python digital_signature.py -v `<document> <public_key> <signature>`
+2. python digital_signature.py -v `<document>` `<public_key>` `<signature>`
 

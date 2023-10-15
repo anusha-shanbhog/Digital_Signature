@@ -21,7 +21,9 @@ Verify the authenticity of a document by providing the document, the public key,
 
 Screenshot of working of tool:
 
-/home/anu/digver.png
+
+![image](https://github.com/anusha-shanbhog/Digital_Signature/assets/92755610/f585e483-860c-4c70-93ab-afaeadded13b)
+
 
 
 

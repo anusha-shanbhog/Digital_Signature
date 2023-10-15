@@ -17,5 +17,13 @@ This command generates an RSA key pair, if it doesn't exist, and signs the speci
 
 Verify the authenticity of a document by providing the document, the public key, and the corresponding signature. The tool checks whether the document's signature is valid, ensuring it hasn't been tampered with.
 
+
+
+Screenshot of working of tool:
+
+/home/anu/digver.png
+
+
+
    
 
